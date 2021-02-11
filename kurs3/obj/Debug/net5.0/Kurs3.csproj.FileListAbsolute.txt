@@ -1,0 +1,16 @@
+C:\Users\Flarl\RiderProjects\Kurs3\Kurs3\bin\Debug\net5.0\Kurs3.exe
+C:\Users\Flarl\RiderProjects\Kurs3\Kurs3\bin\Debug\net5.0\Kurs3.deps.json
+C:\Users\Flarl\RiderProjects\Kurs3\Kurs3\bin\Debug\net5.0\Kurs3.runtimeconfig.json
+C:\Users\Flarl\RiderProjects\Kurs3\Kurs3\bin\Debug\net5.0\Kurs3.runtimeconfig.dev.json
+C:\Users\Flarl\RiderProjects\Kurs3\Kurs3\bin\Debug\net5.0\Kurs3.dll
+C:\Users\Flarl\RiderProjects\Kurs3\Kurs3\bin\Debug\net5.0\ref\Kurs3.dll
+C:\Users\Flarl\RiderProjects\Kurs3\Kurs3\bin\Debug\net5.0\Kurs3.pdb
+C:\Users\Flarl\RiderProjects\Kurs3\Kurs3\obj\Debug\net5.0\Kurs3.csprojAssemblyReference.cache
+C:\Users\Flarl\RiderProjects\Kurs3\Kurs3\obj\Debug\net5.0\Kurs3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flarl\RiderProjects\Kurs3\Kurs3\obj\Debug\net5.0\Kurs3.AssemblyInfoInputs.cache
+C:\Users\Flarl\RiderProjects\Kurs3\Kurs3\obj\Debug\net5.0\Kurs3.AssemblyInfo.cs
+C:\Users\Flarl\RiderProjects\Kurs3\Kurs3\obj\Debug\net5.0\Kurs3.csproj.CoreCompileInputs.cache
+C:\Users\Flarl\RiderProjects\Kurs3\Kurs3\obj\Debug\net5.0\Kurs3.dll
+C:\Users\Flarl\RiderProjects\Kurs3\Kurs3\obj\Debug\net5.0\ref\Kurs3.dll
+C:\Users\Flarl\RiderProjects\Kurs3\Kurs3\obj\Debug\net5.0\Kurs3.pdb
+C:\Users\Flarl\RiderProjects\Kurs3\Kurs3\obj\Debug\net5.0\Kurs3.genruntimeconfig.cache
